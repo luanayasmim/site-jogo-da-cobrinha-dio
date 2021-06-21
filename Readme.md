@@ -1,0 +1,1 @@
+Olá, esse é mais um projeto da Digital Inovation One no bootcamp de HTML Web Developer. A proposta foi de fazer o famoso jogo da cobrinha, utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto usei estruturas condicionais no Javascript para a implementação da funcionalidade do jogo.
